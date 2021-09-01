@@ -1,8 +1,8 @@
 # React-django
 
-# TMDB-app
 
 Código fonte do tutorial em video dividido em 3 partes:
+
 [Django and React: Full CRUD part1 backend API](https://www.youtube.com/watch?v=junWE5DoaVk).
 
 [Django and React: Full CRUD part2 frontend login](https://www.youtube.com/watch?v=rJKoS5HkV8o).
